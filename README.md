@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan 
 - 👀 I’m interested in ... all things electronic - especially gadgets and toys lol!
-- 🌱 I’m currently learning ... Ardunio using PlatformIO
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Nordic SDK17 BLE on Segger Studio
+- 💞️ I’m looking to collaborate on ... Nordic BLE SDK17
 - 📫 How to reach me ... email is best - DL@DLTLimited.com
 
 <!---
